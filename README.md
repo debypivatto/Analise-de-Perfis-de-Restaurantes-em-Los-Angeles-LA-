@@ -1,5 +1,7 @@
 # ☕ Análise de Mercado — Estudo de Viabilidade para Abertura de Cafeteria
-Objetivo: Avaliar a viabilidade de abrir uma cafeteria com garçons robôs em LA
+
+## 🎯 Objetivo da Análise 
+Avaliar a viabilidade de abrir uma cafeteria com garçons robôs em LA
 Análise de Perfil de Clientes para Verificar se existe viabilidade e como seriam os requisitos e recomendações para a instalação da Cafeteria modelo
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
