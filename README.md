@@ -9,10 +9,8 @@ Além do notebook de análise, o repositório também inclui uma apresentação 
 
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
-O projeto foi desenvolvido em **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-, utilizando as seguintes bibliotecas:
-- **Pandas** → manipulação e limpeza de dados  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
+- **Pandas** → manipulação e limpeza de dados 
 - **NumPy** → cálculos estatísticos e operações numéricas  
 - **Matplotlib** e **Seaborn** → visualizações gráficas e análises exploratórias  
-- **Jupyter Notebook** → ambiente de desenvolvimento e análise  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
+- **Jupyter Notebook** → ambiente de desenvolvimento e análise  
